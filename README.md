@@ -1,4 +1,4 @@
-# Starcraft II Terran Agent
+# Starcraft II Zerg Agent
 
 A Stacraft II AI written in Python 3 using the [Dentosal sc2 library](https://github.com/Dentosal/python-sc2)
 
